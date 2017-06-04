@@ -4,7 +4,7 @@
 -------------
 **Tesseract is the advanced server software based on PocketMine-MP and Genisys! <br>
 Tesseract supports packet and event debug system (for plugin developers) <br>
-Contact us on [DISCORD](https://discord.gg/zYZmpec) for support
+Contact us on [DISCORD](https://discord.gg/zYZmpec) for support<br>
 Contact us on [TWITTER](http://www.twitter.com/TesseractPHP) for support**
 
 ## Information Title
